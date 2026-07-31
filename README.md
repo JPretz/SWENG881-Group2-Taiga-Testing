@@ -1,8 +1,8 @@
 # SWENG881-Group2-Taiga-Testing
 
-## Software Testing and Quality Assurance Project
+## Software Testing Plan
 
-**Course:** SWENG 881 – Software Testing and Quality Assurance  
+**Course:** SWENG 881 – Software Testing   
 **Professor:** Dr. Nathalia Moraes do Nascimento  
 **Semester:** Summer 2026  
 **Group:** Group 2
