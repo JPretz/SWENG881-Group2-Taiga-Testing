@@ -9,7 +9,7 @@ on:
     branches:
       - main
 
-jobs:
+  workflow_dispatch:
   build-and-test:
 
     runs-on: ubuntu-latest
