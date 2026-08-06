@@ -336,3 +336,4 @@ This project was completed as part of the SWENG 881 Software Testing course at T
 
 All testing activities, analyses, execution results, and documentation contained within this repository were developed by Group 2 in fulfillment of course requirements and to demonstrate the practical application of modern software testing and quality assurance methodologies.
 
+CI/CD workflow test trigger
