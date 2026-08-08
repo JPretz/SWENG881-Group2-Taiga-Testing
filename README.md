@@ -320,14 +320,15 @@ Overall, the Taiga platform demonstrated strong functional reliability and valid
 
 ---
 
-# Conclusion
+## Conclusion
 
 This repository contains the deliverables, testing artifacts, automation projects, and supporting documentation developed for the SWENG 881 Software Testing and Quality Assurance project.
 
-Through the application of Input Domain Modeling, Equivalence Partitioning, Graph-Based Testing, Exploratory Testing, and Automated Testing techniques, the team evaluated key functionality within the Taiga Agile Project Management System and documented the resulting findings, observations, and recommendations.
+The testing effort applied Input Domain Modeling, Equivalence Partitioning, Graph-Based Testing, Exploratory Testing, and Automated Testing techniques to evaluate key functionality within the Taiga Agile Project Management System. A total of 61 test scenarios were designed and executed, including 21 Input Domain Modeling test cases, 7 Graph-Based Authentication test cases, and 33 exploratory testing scenarios.
 
-The results demonstrate the effective application of software testing principles to a real-world open-source software project while providing meaningful insight into the quality and reliability of the Taiga platform.
+The automated test suite consisted of 28 JUnit 5 test cases integrated with Selenium WebDriver, Cucumber, Maven, and GitHub Actions CI/CD. All 28 automated tests executed successfully without failures. Exploratory testing identified several minor usability and validation issues, but no critical defects, major failures, or workflow-breaking problems were discovered.
 
+The results demonstrate the successful application of software testing principles to a real-world open-source software project and provide evidence that the evaluated Taiga features exhibit an acceptable level of quality, reliability, and robustness within the defined scope of testing.
 ---
 
 # Acknowledgments
