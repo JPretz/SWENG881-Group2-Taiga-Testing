@@ -320,7 +320,7 @@ Overall, the Taiga platform demonstrated strong functional reliability and valid
 
 ---
 
-## Conclusion
+# Conclusion
 
 This repository contains the deliverables, testing artifacts, automation projects, and supporting documentation developed for the SWENG 881 Software Testing and Quality Assurance project.
 
